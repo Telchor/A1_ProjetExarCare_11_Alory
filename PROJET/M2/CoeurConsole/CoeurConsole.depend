@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1542183201 source:c:\users\leo gilles\desktop\code\code\coeurconsole\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1542097179 c:\users\leo gilles\desktop\code\code\coeurconsole\coeur.h
+	<stdlib.h>
+	<stdio.h>
+
+1542360411 source:c:\users\leo gilles\desktop\code\code\coeurconsole\generationcode.c
+	<stdio.h>
+	<stdlib.h>
+
+1542360289 source:c:\users\leo gilles\desktop\code\code\coeurconsole\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"GenerationCode.h"
+
+1542115463 c:\users\leo gilles\desktop\code\code\coeurconsole\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1542110368 c:\users\leo gilles\desktop\code\code\coeurconsole\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.c"
+
+1542124776 c:\users\leo gilles\desktop\code\code\coeurconsole\menu.h
+	<stdlib.h>
+	<stdio.h>
+
+1542360098 c:\users\leo gilles\desktop\code\code\coeurconsole\param.h
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1542122950 c:\users\leo gilles\desktop\code\code\coeurconsole\generationcode.h
+	<stdio.h>
+	<stdlib.h>
+	"param.h"
+

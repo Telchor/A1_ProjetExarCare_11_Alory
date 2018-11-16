@@ -1,0 +1,55 @@
+int X=50;
+void setup() {
+pinMode(2,OUTPUT);
+pinMode(3,OUTPUT);
+pinMode(4,OUTPUT);
+pinMode(5,OUTPUT);
+pinMode(6,OUTPUT);
+pinMode(7,OUTPUT);
+pinMode(8,OUTPUT);
+pinMode(9,OUTPUT);
+pinMode(10,OUTPUT);
+pinMode(11,OUTPUT);
+}
+void loop() {
+ digitalWrite(6,HIGH);
+  delay(X);
+ digitalWrite(2,HIGH);
+  delay(X);
+digitalWrite(3,HIGH);
+  delay(X);
+ digitalWrite(4,HIGH);
+  delay(X);  
+ digitalWrite(5,HIGH);
+  delay(X);
+ digitalWrite(10,HIGH);
+  delay(X);  
+ digitalWrite(11,HIGH);
+  delay(X);
+ digitalWrite(9,HIGH);
+  delay(X);
+ digitalWrite(8,HIGH);
+  delay(X);
+ digitalWrite(7,HIGH);
+ delay(X);
+ digitalWrite(6, LOW);
+ delay(X);
+ digitalWrite(2, LOW);
+  delay(X);
+ digitalWrite(3, LOW);
+ delay(X);
+ digitalWrite(4, LOW);
+ delay(X);
+ digitalWrite(5, LOW);
+ delay(X);
+ digitalWrite(10,LOW);
+ delay(X);
+ digitalWrite(11,LOW);
+  delay(X);
+ digitalWrite(9, LOW);
+ delay(X);
+ digitalWrite(8, LOW);
+ delay(X);
+ digitalWrite(7, LOW);
+ delay(X);
+}

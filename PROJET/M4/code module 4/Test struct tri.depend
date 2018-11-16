@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1542122450 source:c:\users\anarg\documents\projet1\test struct tri\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"actions.h"
+	"donnees.h"
+
+1542269852 source:c:\users\anarg\documents\projet1\test struct tri\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"actions.h"
+	"donnees.h"
+
+1542120619 c:\users\anarg\documents\projet1\test struct tri\menu.h
+
+1542269231 c:\users\anarg\documents\projet1\test struct tri\actions.h
+	"donnees.h"
+
+1542181547 source:c:\users\anarg\documents\projet1\test struct tri\donnees.c
+	<stdio.h>
+	<stdlib.h>
+	"actions.h"
+	"donnees.h"
+
+1542269231 source:c:\users\anarg\documents\projet1\test struct tri\actions.c
+	<stdio.h>
+	<stdlib.h>
+	"donnees.h"
+	"actions.h"
+	<windows.h>
+	<math.h>
+
+1542117334 c:\users\anarg\documents\projet1\test struct tri\donnees.h
+
